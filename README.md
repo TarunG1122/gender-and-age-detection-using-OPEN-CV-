@@ -16,3 +16,5 @@ deploy.prototxt.txt: Model architecture for the face detection model.
 
 
 download pretrained models from (https://data-flair.training/blogs/python-project-gender-age-detection/)
+
+[age gender.png](https://github.com/TarunG1122/gender-and-age-detection-using-OPEN-CV-/blob/main/age%20gender.png) image file shows real time age and gender detection
